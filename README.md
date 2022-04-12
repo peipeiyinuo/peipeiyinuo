@@ -1,4 +1,13 @@
 ### Hi there 👋
+<div>
+  <p align = "center">
+    <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=tokyonight" width="45%">
+  </p>
+</div>
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=react-dark">
+</p>
 
 <!--
 **peipeiyinuo/peipeiyinuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
