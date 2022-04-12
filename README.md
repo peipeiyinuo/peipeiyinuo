@@ -3,6 +3,7 @@
   <p align = "center">
     <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=tokyonight" width="45%">
   </p>
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" width="50%" >
 </div>
 
 <p align = "center">
