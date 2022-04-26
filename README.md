@@ -1,4 +1,5 @@
 ### 🐯💮一颗松鼠 🐿️
+### Hello，这里存的大部分是自己敲代码的成长记录，与个人认为有代表性的例子!
 <div>
   <p align = "center">
     <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=tokyonight" width="45%">
